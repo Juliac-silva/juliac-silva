@@ -29,6 +29,7 @@
 🔹 Exercícios de **lógica de programação**
 🔹 Projetos em **Portugol**
 🔹 Projetos de estudo em **Kotlin**
+🔹 Projetos no **Figma**
 
 ---
 
@@ -44,7 +45,15 @@
 
 ## 📫 Contato
 
-📧 Email: [julia232417mdzs@hotmail.com](mailto:seuemail@email.com)
+<p>
+<a href="https://www.linkedin.com/in/julia-costa-2177a8335/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+  
+<a href="https://instagram.com/seuusuario">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</p>
 
 ---
 
