@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Sobre mim
 
-💻 Estudante de programação <br>
+💻 Estudante de programação e design <br>
 📚 Atualmente estudando **Kotlin**, lógica de programação e desenvolvimento de software <br>
 🚀 Estudante do **Instituto PROA** <br>
 🎯 Em busca da minha primeira oportunidade na área de tecnologia <br>
