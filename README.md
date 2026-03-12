@@ -1,7 +1,7 @@
 # Olá, eu sou a Julia 👋
 
 <p align="center">
-  <img width="1536" height="1024" alt="ChatGPT Image 11 de mar  de 2026, 19_50_17" src="https://github.com/user-attachments/assets/2434c601-f147-4f91-87d1-2cb74948f7b6" />
+  <img width="1536" height="1024" alt="ChatGPT Image 11 de mar  de 2026, 19_50_17"src="https://github.com/user-attachments/assets/2434c601-f147-4f91-87d1-2cb74948f7b6"/>
 </p>
 
 ## 👨‍💻 Sobre mim
